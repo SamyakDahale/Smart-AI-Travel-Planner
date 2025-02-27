@@ -34,7 +34,7 @@ def generate_travel_suggestions(start_point, end_point):
         return f"❌ Error fetching travel suggestions: {str(err)}"
 
 #  Streamlit  
-st.title("🌍 AI Travel Guide")
+st.title("🌍 Smart AI Travel Planner")
 st.markdown("Plan your journey effortlessly! Get AI-powered travel options with estimated costs and helpful insights.")
 
 # ✅User Inputs
