@@ -19,7 +19,7 @@ Google GenAI
 
 📂 /Smart-AI-Travel-Planner
 ├── 📄 app.py            # Main Streamlit application
-├── 📄 requirements.txt 
+├── 📄 requirement.txt 
 ├── 📄 README.md        
 ├── 📄 API_key.txt       # Google API Key 
 
